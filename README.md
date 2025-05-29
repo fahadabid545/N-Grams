@@ -1,4 +1,4 @@
-# N-gram Language Modeling
+# N-Gram Language Modeling
 
 This project focuses on building N-gram language models (unigram, bigram, trigram) to understand and analyze patterns in sequential text data.
 
